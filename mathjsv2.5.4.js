@@ -1,7 +1,7 @@
 /*
     Author: Jahongir Sobirov
     Name: Math.js
-    Version: 2.5.3
+    Version: 2.5.4
     License: MIT
 */
 $(document).ready(function(){
